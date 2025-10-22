@@ -1,0 +1,7 @@
+1 R: Se você usar ([]) vai estar passando uma array
+2 R: props são tipo uma div pai que tem como função adicionar
+ ou remover elementos e atualizar o react, é uma etapa importe 
+ pois o react precisa desse tipo de elemento para funcionar
+3 R: Alem de ser mais pratico a sintax, ele trás mais leveza em 
+questão de estilo e facilita para o programador com mais recursos que o css
+4 R: C
